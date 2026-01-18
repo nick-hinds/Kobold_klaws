@@ -3,7 +3,7 @@
 
 ---
 
-## OBLEX THUG
+## OBLEX THUG - Noname
 **"The Mimic"** - Infiltration Specialist
 - **AC:** 14
 - **HP:** 58 (9d8 + 18)
@@ -33,7 +33,7 @@
 
 ---
 
-## YUGOLOTH THUG
+## YUGOLOTH THUG - Lyphus
 **"The Mercenary"** - Hired Muscle
 - **AC:** 17 (natural armor)
 - **HP:** 75 (10d8 + 30)
@@ -68,7 +68,7 @@
 
 ---
 
-## WERERAT THUG
+## WERERAT THUG - Chester
 **"The Sneak"** - Scout and Spy
 - **AC:** 14 (natural armor)
 - **HP:** 52 (8d8 + 16)
@@ -102,7 +102,7 @@
 
 ---
 
-## BUGBEAR THUG
+## BUGBEAR THUG - Al-Caponuk 
 **"The Bruiser"** - Enforcer
 - **AC:** 16 (hide armor + shield)
 - **HP:** 85 (10d8 + 40)
@@ -135,7 +135,7 @@
 
 ---
 
-## ORC THUG
+## ORC THUG - Drago
 **"The Veteran"** - Professional Criminal
 - **AC:** 16 (chain shirt + Dex)
 - **HP:** 68 (8d8 + 32)

@@ -8,26 +8,26 @@
 ║           VEXXUS THE CAMBION                  ║
 ║          Head of Security                     ║
 ╠═══════════════════════════════════════════════╣
-║ AC: 19 | HP: 82 | Speed: 30 ft, fly 60 ft    ║
-║ STR +4 | DEX +4 | CON +3 | INT +2 | WIS +1   ║
+║ AC: 19 | HP: 82 | Speed: 30 ft, fly 60 ft     ║
+║ STR +4 | DEX +4 | CON +3 | INT +2 | WIS +1    ║
 ║ CHA +3                                        ║
 ╠═══════════════════════════════════════════════╣
 ║ ACTIONS:                                      ║
-║ • Multiattack: 2 melee OR 2 Fire Rays        ║
-║ • Spear: +7, 1d6+4 + 3d6 fire                ║
-║ • Fire Ray: +6, range 120', 3d10 fire        ║
-║ • Fiendish Charm: DC 14 Wis, charmed 1 day  ║
+║ • Multiattack: 2 melee OR 2 Fire Rays         ║
+║ • Spear: +7, 1d6+4 + 3d6 fire                 ║
+║ • Fire Ray: +6, range 120', 3d10 fire         ║
+║ • Fiendish Charm: DC 14 Wis, charmed 1 day    ║
 ╠═══════════════════════════════════════════════╣
 ║ SPECIAL:                                      ║
-║ • Flies freely - hard to pin down            ║
-║ • Can direct guards (bonus action)           ║
-║ • Retreats at 25 HP or less                  ║
-║ • Resistant to: cold, fire, lightning,       ║
-║   poison, nonmagical B/P/S                   ║
+║ • Flies freely - hard to pin down             ║
+║ • Can direct guards (bonus action)            ║
+║ • Retreats at 25 HP or less                   ║
+║ • Resistant to: cold, fire, lightning,        ║
+║   poison, nonmagical B/P/S                    ║
 ╠═══════════════════════════════════════════════╣
-║ TACTICS: Stay airborne, Fire Ray at range,   ║
-║ direct guards strategically. Professional    ║
-║ and calculated, not reckless.                ║
+║ TACTICS: Stay airborne, Fire Ray at range,    ║
+║ direct guards strategically. Professional     ║
+║ and calculated, not reckless.                 ║
 ╚═══════════════════════════════════════════════╝
 ```
 
@@ -38,23 +38,23 @@
 ║           SHIELD GUARDIAN                     ║
 ║          Vault Protector                      ║
 ╠═══════════════════════════════════════════════╣
-║ AC: 17 | HP: 142 | Speed: 30 ft              ║
-║ STR +4 | DEX -1 | CON +4 | INT -2 | WIS +0   ║
+║ AC: 17 | HP: 142 | Speed: 30 ft               ║
+║ STR +4 | DEX -1 | CON +4 | INT -2 | WIS +0    ║
 ║ CHA -4                                        ║
 ╠═══════════════════════════════════════════════╣
 ║ ACTIONS:                                      ║
-║ • Multiattack: Two fist attacks              ║
-║ • Fist: +7, reach 5', 2d6+4 bludgeoning      ║
+║ • Multiattack: Two fist attacks               ║
+║ • Fist: +7, reach 5', 2d6+4 bludgeoning       ║
 ╠═══════════════════════════════════════════════╣
 ║ SPECIAL:                                      ║
-║ • Regeneration: 10 HP per round              ║
-║ • Immune to: poison                          ║
-║ • Bound to control amulet                    ║
-║ • Stored Spell: Shield (can cast on ally)   ║
+║ • Regeneration: 10 HP per round               ║
+║ • Immune to: poison                           ║
+║ • Bound to control amulet                     ║
+║ • Stored Spell: Shield (can cast on ally)     ║
 ╠═══════════════════════════════════════════════╣
-║ TACTICS: Guard display case. Grapple and     ║
-║ restrain intruders. Will NOT leave vault.    ║
-║ If shown control amulet, becomes docile.     ║
+║ TACTICS: Guard display case. Grapple and      ║
+║ restrain intruders. Will NOT leave vault.     ║
+║ If shown control amulet, becomes docile.      ║
 ╚═══════════════════════════════════════════════╝
 ```
 
@@ -65,19 +65,41 @@
 ║           VETERAN GUARD                       ║
 ║          Elite Security                       ║
 ╠═══════════════════════════════════════════════╣
-║ AC: 17 | HP: 58 | Speed: 30 ft               ║
-║ STR +3 | DEX +1 | CON +2 | INT +0 | WIS +0   ║
+║ AC: 17 | HP: 58 | Speed: 30 ft                ║
+║ STR +3 | DEX +1 | CON +2 | INT +0 | WIS +0    ║
 ║ CHA +0                                        ║
 ╠═══════════════════════════════════════════════╣
 ║ ACTIONS:                                      ║
-║ • Multiattack: Two longsword attacks         ║
-║ • Longsword: +5, 1d8+3 (or 1d10+3)          ║
-║ • Heavy Crossbow: +3, range 100/400,        ║
-║   1d10+1 piercing                            ║
+║ • Multiattack: Two longsword attacks          ║
+║ • Longsword: +5, 1d8+3 (or 1d10+3)            ║
+║ • Heavy Crossbow: +3, range 100/400,          ║
+║   1d10+1 piercing                             ║
 ╠═══════════════════════════════════════════════╣
-║ TACTICS: Form defensive lines. Two use       ║
-║ crossbows while two engage melee. Attempt    ║
-║ to flank and corner intruders.               ║
+║ TACTICS: Form defensive lines. Two use        ║
+║ crossbows while two engage melee. Attempt     ║
+║ to flank and corner intruders.                ║
+╚═══════════════════════════════════════════════╝
+```
+
+---
+
+```
+╔═══════════════════════════════════════════════╗
+║        VETERAN GUARD Brawler                  ║
+║          Elite Security                       ║
+╠═══════════════════════════════════════════════╣
+║ AC: 17 | HP: 78 | Speed: 30 ft                ║
+║ STR +4 | DEX +2 | CON +2 | INT +0 | WIS +0    ║
+║ CHA +0                                        ║
+╠═══════════════════════════════════════════════╣
+║ ACTIONS:                                      ║
+║ • Multiattack: Two Battle Axe attacks         ║
+║ • Battle Axe: +5, 1d12+4                      ║
+║ • Front Kick, +3, 1d6+4 know back 10 ft       ║
+╠═══════════════════════════════════════════════╣
+║ TACTICS: Form defensive lines. Two use        ║
+║ crossbows while two engage melee. Attempt     ║
+║ to flank and corner intruders.                ║
 ╚═══════════════════════════════════════════════╝
 ```
 
@@ -88,25 +110,25 @@
 ║           HELL HOUND                          ║
 ║          Fiendish Tracker                     ║
 ╠═══════════════════════════════════════════════╣
-║ AC: 15 | HP: 45 | Speed: 50 ft               ║
-║ STR +3 | DEX +1 | CON +2 | INT -2 | WIS +1   ║
+║ AC: 15 | HP: 45 | Speed: 50 ft                ║
+║ STR +3 | DEX +1 | CON +2 | INT -2 | WIS +1    ║
 ║ CHA -2                                        ║
 ╠═══════════════════════════════════════════════╣
 ║ ACTIONS:                                      ║
-║ • Bite: +5, reach 5', 1d8+3 piercing +       ║
-║   2d6 fire damage                            ║
-║ • Fire Breath (Recharge 5-6): 15' cone,     ║
-║   6d6 fire, DC 12 Dex save for half          ║
+║ • Bite: +5, reach 5', 1d8+3 piercing +        ║
+║   2d6 fire damage                             ║
+║ • Fire Breath (Recharge 5-6): 15' cone,       ║
+║   6d6 fire, DC 12 Dex save for half           ║
 ╠═══════════════════════════════════════════════╣
 ║ SPECIAL:                                      ║
-║ • Keen Hearing/Smell: Advantage on           ║
-║   Perception checks                          ║
-║ • Pack Tactics: Advantage if ally nearby    ║
-║ • Immune to: fire damage                     ║
+║ • Keen Hearing/Smell: Advantage on            ║
+║   Perception checks                           ║
+║ • Pack Tactics: Advantage if ally nearby      ║
+║ • Immune to: fire damage                      ║
 ╠═══════════════════════════════════════════════╣
-║ TACTICS: Hunt in pairs. Use Fire Breath to   ║
-║ block escape routes. Grapple with bite to    ║
-║ slow runners. Very fast (50 ft movement!)    ║
+║ TACTICS: Hunt in pairs. Use Fire Breath to    ║
+║ block escape routes. Grapple with bite to     ║
+║ slow runners. Very fast (50 ft movement!)     ║
 ╚═══════════════════════════════════════════════╝
 ```
 
@@ -117,27 +139,27 @@
 ║           SHADOW                              ║
 ║          Spectral Guard                       ║
 ╠═══════════════════════════════════════════════╣
-║ AC: 12 | HP: 16 | Speed: 40 ft               ║
-║ STR -2 | DEX +2 | CON +1 | INT -2 | WIS +0   ║
+║ AC: 12 | HP: 16 | Speed: 40 ft                ║
+║ STR -2 | DEX +2 | CON +1 | INT -2 | WIS +0    ║
 ║ CHA -1                                        ║
 ╠═══════════════════════════════════════════════╣
 ║ ACTIONS:                                      ║
-║ • Strength Drain: +4, reach 5',             ║
-║   2d6+2 necrotic + reduce STR by 1d4        ║
-║   (target dies if STR reduced to 0)          ║
+║ • Strength Drain: +4, reach 5',               ║
+║   2d6+2 necrotic + reduce STR by 1d4          ║
+║   (target dies if STR reduced to 0)           ║
 ╠═══════════════════════════════════════════════╣
 ║ SPECIAL:                                      ║
-║ • Amorphous: Squeeze through 1" spaces       ║
-║ • Shadow Stealth: Hide bonus action in       ║
-║   dim light/darkness                         ║
-║ • Vulnerable to: radiant damage              ║
-║ • Resistant to: acid, cold, fire, thunder,  ║
-║   nonmagical B/P/S                           ║
-║ • Immune to: necrotic, poison damage         ║
+║ • Amorphous: Squeeze through 1" spaces        ║
+║ • Shadow Stealth: Hide bonus action in        ║
+║   dim light/darkness                          ║
+║ • Vulnerable to: radiant damage               ║
+║ • Resistant to: acid, cold, fire, thunder,    ║
+║   nonmagical B/P/S                            ║
+║ • Immune to: necrotic, poison damage          ║
 ╠═══════════════════════════════════════════════╣
-║ TACTICS: Appear from walls. Focus strongest  ║
-║ PC. Use hit-and-run with Shadow Stealth.     ║
-║ Flee if hit with radiant damage.             ║
+║ TACTICS: Appear from walls. Focus strongest   ║
+║ PC. Use hit-and-run with Shadow Stealth.      ║
+║ Flee if hit with radiant damage.              ║
 ╚═══════════════════════════════════════════════╝
 ```
 
@@ -148,23 +170,23 @@
 ║           OLP ZIX ZAP                         ║
 ║          Crime Boss (Friendly NPC)            ║
 ╠═══════════════════════════════════════════════╣
-║ AC: 15 | HP: 45 | Speed: 30 ft               ║
-║ STR -1 | DEX +3 | CON +1 | INT +3 | WIS +2   ║
-║ CHA +4                                        ║
+║ AC: 17 | HP: 108 | Speed: 30 ft               ║
+║ STR -1 | DEX +3 | CON +2 | INT +3 | WIS +2    ║
+║ CHA +5                                        ║
 ╠═══════════════════════════════════════════════╣
-║ ACTIONS (If Necessary):                      ║
-║ • Multiattack: Two rapier attacks            ║
-║ • Rapier: +6, reach 5', 1d8+3 piercing       ║
-║ • Charm Person (3/day): DC 15 Wis save       ║
+║ ACTIONS (If Necessary):                       ║
+║ • Scorching Ray: +10 2d6                      ║
+║ • Rapier: +6, reach 5', 1d8+3 piercing        ║
+║ • Charm Person (3/day): DC 15 Wis save        ║
 ╠═══════════════════════════════════════════════╣
 ║ SPECIAL:                                      ║
-║ • Pack Tactics                               ║
-║ • Criminal Network (knows everyone)          ║
-║ • Sending Stone (infinite range comm)        ║
+║ • Pack Tactics                                ║
+║ • Criminal Network (knows everyone)           ║
+║ • Sending Stone (infinite range comm)         ║
 ╠═══════════════════════════════════════════════╣
-║ PERSONALITY: Sophisticated, witty, refined   ║
-║ accent. Always has backup plan. Sips wine.   ║
-║ Adjusts fedora constantly. Loyal to crew.    ║
+║ PERSONALITY: Sophisticated, witty, refined    ║
+║ accent. Always has backup plan. Sips wine.    ║
+║ Adjusts fedora constantly. Loyal to crew.     ║
 ╚═══════════════════════════════════════════════╝
 ```
 

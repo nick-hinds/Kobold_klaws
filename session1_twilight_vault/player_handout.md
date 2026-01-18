@@ -2,6 +2,8 @@
 ## Player Handout - Mission Briefing
 
 ---
+![Kobold Klaws Symbol](kobold_klaws_symbol.png)
+---
 
 ## FROM THE DESK OF OLP ZIX ZAP
 *Kobold Klaws Interplanar Syndicate*
@@ -10,7 +12,7 @@ My dear associates,
 
 Congratulations on making it this far! You've expressed interest in joining our... *prestigious* organization. Before we make things official, I require proof of your capabilities.
 
-Tonight, you will undertake a test of skill, cunning, and nerve.
+Tonight, you will undertake a test of skill, cunning, nerve, and more than likely danger.
 
 ---
 
@@ -28,7 +30,7 @@ Tonight, you will undertake a test of skill, cunning, and nerve.
 
 **COMPENSATION:**
 - 1,000 gold pieces each
-- One magical item of uncommon quality (your choice)
+- A magical Item of your choice of the sydicates armory
 - Full membership in the Kobold Klaws
 - Access to our... *extensive* network of contacts
 
@@ -173,28 +175,6 @@ Best of luck,
 **What to bring:** Your skills, your wits, and an appetite for adventure
 
 The uniforms will be waiting for you.
-
----
-
-## NOTES SECTION (For Your Planning)
-
-Use this space to strategize:
-
-**Our Approach:**
-[blank space]
-
-**Roles:**
-- 
-- 
-- 
-
-**Backup Plan:**
-[blank space]
-
-**Questions for Olp:**
-- 
-- 
-- 
 
 ---
 
